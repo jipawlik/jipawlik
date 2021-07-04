@@ -30,7 +30,7 @@ a junior front end developer currently working with React.
 
 # Planning to learn
 
-<img align="right" alt="Ross" width="320px" src="https://media.giphy.com/media/rYEAkYihZsyWs/giphy.gif" />
+<img align="right" alt="Ross" width="380px" src="https://media.giphy.com/media/rYEAkYihZsyWs/giphy.gif" />
 
 - Redux
 - TypeScript
