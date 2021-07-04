@@ -35,6 +35,7 @@ a junior front end developer currently working with React.
 - Redux
 - TypeScript
 - Svelte
+- AdobeXD
 
 ## Also into
 
