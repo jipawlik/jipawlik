@@ -13,7 +13,7 @@ a junior front end developer currently working with React.
 
 ## Reach me via
 
-- Email: joannapawlik897@gmail.com
+- Email: joannaizabelapawlik@gmail.com
 - LinkedIn:
   <a href="www.linkedin.com/in/joanna-izabela-pawlik/">
   <img align="center" alt="JoannaPawlik LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -34,7 +34,6 @@ a junior front end developer currently working with React.
 
 - Redux
 - TypeScript
-- Svelte
 - AdobeXD
 
 ## Also into
