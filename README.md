@@ -11,10 +11,7 @@ I'm a former musician who has found a new passion in coding and I'm excited to f
 ## Reach me via
 
 - Email: joannaizabelapawlik@gmail.com
-- LinkedIn:
-  <a href="www.linkedin.com/in/joanna-izabela-pawlik/">
-  <img align="center" alt="JoannaPawlik LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
+- [LinkedIn](www.linkedin.com/in/joanna-izabela-pawlik/)
 
 # Technologies I use
 - Vue
