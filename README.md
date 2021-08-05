@@ -11,7 +11,7 @@ I'm a former musician who has found a new passion in coding and I'm excited to f
 ## Reach me via
 
 - Email: joannaizabelapawlik@gmail.com
-- [LinkedIn](www.linkedin.com/in/joanna-izabela-pawlik/)
+
 
 # Technologies I use
 - Vue
