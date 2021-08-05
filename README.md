@@ -1,15 +1,12 @@
 # Hi! I'm Joanna 👾
 
-a junior front end developer currently working with React.
+a Front End Developer currently working in a start-up company. 
 
 # 🧐 About me:
 
 <img align="right" alt="Moss" width="220px" src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" />
 
-- I'm learning to code since November 2020
-- I've just completed JavaScript and React Developer course with a [final project]
-- Currently finishing all of my [portfolio] projects
-  and freelancing
+I'm a former musician who has found a new passion in coding and I'm excited to follow that path professionally! 
 
 ## Reach me via
 
@@ -20,7 +17,7 @@ a junior front end developer currently working with React.
   </a>
 
 # Technologies I use
-
+- Vue
 - React
 - JavaScript
 - HTML
@@ -49,5 +46,5 @@ a junior front end developer currently working with React.
 
 
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
-[final project]: https://jipawlik.github.io/daily-planner/#/
+
 [portfolio]: https://jipawlik.github.io/portfolio-page/#/
