@@ -15,20 +15,22 @@ I'm a former musician who has found a new passion in coding and I'm excited to f
 
 # Technologies I use
 - Vue
-- React
 - JavaScript
+- TypeScript
+- Cypress
+- Ionic
+- Kotlin(learning)
 - HTML
 - CSS, Sass
 - Git
-- webpack, gulp
+- React
 
 # Planning to learn
 
 <img align="right" alt="Ross" width="380px" src="https://media.giphy.com/media/rYEAkYihZsyWs/giphy.gif" />
 
-- Redux
-- TypeScript
-- AdobeXD
+- Cyber Security
+- Flutter
 
 ## Also into
 
