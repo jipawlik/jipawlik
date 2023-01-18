@@ -6,7 +6,7 @@ a Front End Developer currently working in a start-up company.
 
 <img align="right" alt="Moss" width="220px" src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" />
 
-I'm a former musician who has found a new passion in coding and I'm excited to follow that path professionally! 
+I'm a former musician and artist who has found a new passion in coding and I'm excited to follow that path professionally! 
 
 ## Reach me via
 
@@ -38,7 +38,8 @@ I'm a former musician who has found a new passion in coding and I'm excited to f
 - art (check out my [Instagram](https://www.instagram.com/epeyotte/?hl=en) !)
 - music (I used to play in a professional orchestra 🎻)
 - true crime stories 🕵️‍♀️
-- krav maga (newbie)
+- game development
+- world domination
 
 
 
